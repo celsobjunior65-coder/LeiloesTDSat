@@ -11,6 +11,8 @@ import javax.swing.table.DefaultTableModel;
  *
  * @author Adm
  */
+//Commit #2: listagem de produtos funcionando
+
 public class listagemVIEW extends javax.swing.JFrame {
 
     /**
