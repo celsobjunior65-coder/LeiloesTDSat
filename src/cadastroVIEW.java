@@ -7,6 +7,7 @@
  *
  * @author Adm
  */
+// Funcionalidade: Cadastro de produto funcionando.
 public class cadastroVIEW extends javax.swing.JFrame {
 
     /**
